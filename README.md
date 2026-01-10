@@ -13,10 +13,11 @@ Software Engineer specializing in scalable backend systems, cloud infrastructure
 ![](https://nirzak-streak-stats.vercel.app/?user=Wableprajwal&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wableprajwal&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# ⚡ Contribution Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wableprajwal&theme=github-compact&hide_border=true"/>
----
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--# ⚡ Contribution Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wableprajwal&theme=github-compact&hide_border=true"/>
+--->
+
+# 🐍 Activity Graph:
 ![snake gif](https://github.com/Wableprajwal/Wableprajwal/blob/output/github-snake-dark.svg)
