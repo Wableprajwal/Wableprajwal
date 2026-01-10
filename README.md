@@ -16,3 +16,5 @@ Software Engineer specializing in scalable backend systems, cloud infrastructure
 [![](https://visitcount.itsvg.in/api?id=Wableprajwal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/Wableprajwal/Wableprajwal/blob/output/github-snake-dark.svg)
